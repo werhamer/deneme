@@ -1,0 +1,15 @@
+export default {
+  primary: "#4CAF50",
+  secondary: "#2E7D32",
+  accent: "#FF5252",
+  background: "#f5f5f5",
+  card: "#ffffff",
+  text: "#212121",
+  textSecondary: "#666666",
+  border: "#e0e0e0",
+  inactive: "#9e9e9e",
+  success: "#4CAF50",
+  warning: "#FFC107",
+  error: "#FF5252",
+  info: "#2196F3",
+};
